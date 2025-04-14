@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fitness_tracker
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# health-tracker-flutter-app-ui
+>>>>>>> e496b540826324e1292f567a41b6c254a7e25dee
