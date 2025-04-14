@@ -3,18 +3,8 @@
 
 A new Flutter project.
 
-## Getting Started
+![ChatGPT Image Apr 14, 2025, 04_24_28 PM](https://github.com/user-attachments/assets/c8ba6d00-4a72-4c77-9bc8-df1e426f94f8)
+![ChatGPT Image Apr 14, 2025, 04_42_27 PM](https://github.com/user-attachments/assets/66584659-9068-4178-966c-1fba75d8dbe8)
+![ChatGPT Image Apr 14, 2025, 04_54_28 PM](https://github.com/user-attachments/assets/69835669-285c-4a5e-b5a2-d7086e8cbc7e)
+![ChatGPT Image Apr 14, 2025, 04_55_58 PM](https://github.com/user-attachments/assets/d2f2fbf0-b24b-4857-bd7a-8472ed1ab33d)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# health-tracker-flutter-app-ui
->>>>>>> e496b540826324e1292f567a41b6c254a7e25dee
